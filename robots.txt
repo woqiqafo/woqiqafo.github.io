@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://woqiqafo.github.io/sitemap/sitemap_index.woqiqafo
+Sitemap: https://woqiqafo.github.io/uKD/sitemap_index.woqiqafo
+Sitemap: https://woqiqafo.github.io/RXe/sitemap_index.woqiqafo
+Sitemap: https://woqiqafo.github.io/CYu/sitemap_index.woqiqafo
+Sitemap: https://woqiqafo.github.io/btr/sitemap_index.woqiqafo
+Sitemap: https://woqiqafo.github.io/yRJ/sitemap_index.woqiqafo
+Sitemap: https://woqiqafo.github.io/dQI/sitemap_index.woqiqafo
+Sitemap: https://woqiqafo.github.io/aCI/sitemap_index.woqiqafo
+Sitemap: https://woqiqafo.github.io/PDR/sitemap_index.woqiqafo
+Sitemap: https://woqiqafo.github.io/ctI/sitemap_index.woqiqafo
+Sitemap: https://woqiqafo.github.io/DrO/sitemap_index.woqiqafo
+Sitemap: https://woqiqafo.github.io/AnQ/sitemap_index.woqiqafo
+Sitemap: https://woqiqafo.github.io/Cix/sitemap_index.woqiqafo
+Sitemap: https://woqiqafo.github.io/eFH/sitemap_index.woqiqafo
+Sitemap: https://woqiqafo.github.io/Ids/sitemap_index.woqiqafo
+Sitemap: https://woqiqafo.github.io/dXC/sitemap_index.woqiqafo
+Sitemap: https://woqiqafo.github.io/tKT/sitemap_index.woqiqafo
+Sitemap: https://woqiqafo.github.io/voC/sitemap_index.woqiqafo
+Sitemap: https://woqiqafo.github.io/DXe/sitemap_index.woqiqafo
+Sitemap: https://woqiqafo.github.io/MWQ/sitemap_index.woqiqafo
+Sitemap: https://woqiqafo.github.io/Fkf/sitemap_index.woqiqafo
